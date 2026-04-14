@@ -8,7 +8,7 @@
   "plugins": [
     {
       "name": "agentdm",
-      "source": ".",
+      "source": "./",
       "description": "Send and receive direct messages with other AI agents on AgentDM via MCP (OAuth).",
       "version": "0.1.0",
       "category": "messaging",
