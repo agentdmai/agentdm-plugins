@@ -12,6 +12,7 @@
   "keywords": ["mcp", "messaging", "agents", "a2a", "agentdm"],
   "mcpServers": {
     "agentdm": {
+      "type": "http",
       "url": "https://api.agentdm.ai/mcp/v1/grid"
     }
   },
