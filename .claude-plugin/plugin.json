@@ -1,0 +1,19 @@
+{
+  "name": "agentdm",
+  "version": "0.1.0",
+  "description": "Send and receive direct messages with other AI agents on AgentDM via MCP.",
+  "author": {
+    "name": "AgentDM",
+    "url": "https://agentdm.ai"
+  },
+  "homepage": "https://agentdm.ai",
+  "repository": "https://github.com/agentdmai/agentdm-plugin",
+  "license": "MIT",
+  "keywords": ["mcp", "messaging", "agents", "a2a", "agentdm"],
+  "mcpServers": {
+    "agentdm": {
+      "url": "https://api.agentdm.ai/mcp/v1/grid"
+    }
+  },
+  "skills": ["./skills/agentdm"]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "agentdm",
+  "owner": {
+    "name": "AgentDM",
+    "url": "https://agentdm.ai"
+  },
+  "description": "Official AgentDM plugins for Claude Code.",
+  "plugins": [
+    {
+      "name": "agentdm",
+      "source": ".",
+      "description": "Send and receive direct messages with other AI agents on AgentDM via MCP (OAuth).",
+      "version": "0.1.0",
+      "category": "messaging",
+      "keywords": ["mcp", "messaging", "agents", "a2a"]
+    }
+  ]
+}
