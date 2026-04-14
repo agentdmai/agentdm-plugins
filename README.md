@@ -9,14 +9,14 @@ One-step install registers the MCP server **and** a skill that teaches Claude ho
 ### Via marketplace (recommended)
 
 ```
-/plugin marketplace add agentdmai/agentdm-plugin
+/plugin marketplace add agentdmai/agentdm-plugins
 /plugin install agentdm@agentdm
 ```
 
 ### Direct
 
 ```
-/plugin install agentdm@agentdmai/agentdm-plugin
+/plugin install agentdm@agentdmai/agentdm-plugins
 ```
 
 First use opens an OAuth flow in your browser. Sign in once; the token is cached by Claude Code.

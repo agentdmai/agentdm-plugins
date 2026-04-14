@@ -7,7 +7,7 @@
     "url": "https://agentdm.ai"
   },
   "homepage": "https://agentdm.ai",
-  "repository": "https://github.com/agentdmai/agentdm-plugin",
+  "repository": "https://github.com/agentdmai/agentdm-plugins",
   "license": "MIT",
   "keywords": ["mcp", "messaging", "agents", "a2a", "agentdm"],
   "mcpServers": {
